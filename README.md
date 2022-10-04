@@ -1,6 +1,6 @@
 # Javascript basics (& ES6 syntax)
 
-All topics:
+All topics covered:
 ```
 01-map-function/
 02-unique-values/
